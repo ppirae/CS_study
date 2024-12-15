@@ -1,2 +1,2 @@
-# CS_study
+# woongjin-study
 스터디 기록
